@@ -1,4 +1,4 @@
-public class Draft {
+public class Notes {
 
 //    public static void main(String[] args) {
 //
@@ -31,6 +31,26 @@ public class Draft {
 //                    System.out.println("Кондиционер ничего не делает");
 //                }
 //    }
+
+    /*
+    Целые числа:
+    byte - 1 байт от -128 до 127
+    short - 2 байта от -32 768 до 32 767
+    int 4 байта от -2 147 483 648 до 2 147 483 647
+    long 8 байт от -9 223 372 036 854 775 808 до 9 223 372 036 854 775 807
+    Дробные числа:
+    float - 4 байта (float x = 10,8f)
+    double - 8 байт
+    Символы: char
+    Логические: boolean
+     */
+
+    /*
+    Вычисление корня:
+    double X = Math.sqrt(36)
+     */
+
+    //8 занятие на 5 минуте
 
     public static void main(String[] args) {
 
