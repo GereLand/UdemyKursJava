@@ -22,10 +22,11 @@ public class Notes {
 
 //    public static void main(String[] args) {
 //
-//                int temp = 23;
-//                if (temp > 25) {
+//                int temp = 26;
+//                boolean hot = temp >= 25;
+//                if (hot) {
 //                    System.out.println("Кондиционер включён");
-//                } else if (temp < 22) {
+//                } else if (!hot) {
 //                    System.out.println("Кондиционер выключен");
 //                } else {
 //                    System.out.println("Кондиционер ничего не делает");
@@ -50,9 +51,17 @@ public class Notes {
     double X = Math.sqrt(36)
      */
 
-    //8 занятие на 5 минуте
+    //&& - Логические И
+    //|| - Логическое ИЛИ
 
-    public static void main(String[] args) {
+    /*
+    while (...) {...;}
+    do {...;} while (...) {...;}
+    for (int i = 0; i <= 100; i==) {...;}
+     */
 
-    }
+
+//    public static void main(String[] args) {
+//
+//    }
 }
