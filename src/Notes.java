@@ -60,8 +60,18 @@ public class Notes {
     for (int i = 0; i <= 100; i==) {...;}
      */
 
+    /*
+    тип[] имяМассива = new тип[размер массива];
+    int[] daysInMonth = new int[12];
+    daysInMonth[0] = 31;
+    for (int = i = 0; i < daysInMonth.length; i==) {
+        System.out.println(daysInMonth[i]);}
 
-//    public static void main(String[] args) {
-//
-//    }
+    for (int i : daysInMonth) {
+        System.out.println(daysInMonth[i]);}
+     */
+
+    public static void main(String[] args) {
+
+    }
 }
