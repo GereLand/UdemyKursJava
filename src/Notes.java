@@ -64,11 +64,11 @@ public class Notes {
     тип[] имяМассива = new тип[размер массива];
     int[] daysInMonth = new int[12];
     daysInMonth[0] = 31;
-    for (int = i = 0; i < daysInMonth.length; i==) {
+    for (int i = 0; i < daysInMonth.length; i++) {
         System.out.println(daysInMonth[i]);}
 
     for (int i : daysInMonth) {
-        System.out.println(daysInMonth[i]);}
+        System.out.println(i);}
      */
 
     public static void main(String[] args) {
