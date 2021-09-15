@@ -4,7 +4,7 @@ public class Task2 {
     public static void main(String[] args) {
         int days = 1000;
         int speed = 300000;
-        int seconds = days * 26 * 60 * 60;
+        long seconds = days * 24 * 60 * 60;
         long distance = speed * seconds;
         System.out.println(distance);
     }

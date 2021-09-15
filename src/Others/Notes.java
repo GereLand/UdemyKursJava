@@ -1,3 +1,5 @@
+package Others;
+
 public class Notes {
 
 //    public static void main(String[] args) {
@@ -71,7 +73,9 @@ public class Notes {
         System.out.println(i);}
      */
 
-    public static void main(String[] args) {
-
-    }
+//    public static void main(String[] args) {
+//        int x = 2147483647;
+//        x += 1;
+//        System.out.println(x);
+//    }
 }
